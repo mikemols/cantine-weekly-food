@@ -1,4 +1,4 @@
-# cantine-weekly-food
+# Cantine Weekly Food
 Cantine webapp for checking the weekly food at Business Academy SouthWest.
 
 ## Ideas for this project
